@@ -1,0 +1,17 @@
+Ingresar precio, cantidad y mes
+Definir variables para cada monto ingresado
+Monto de compra = precio * cantidad
+Si el mes ingresado es octubre, se realiza descuento del 15%
+Monto descuento =  compra * 0,15
+compra total= compra - descuento
+Si no el monto total=compra
+
+
+
+
+Pruebas de escritorio
+Precio, Cantidad, Mes, valor, Arrojado
+450/4/10/ 1530 
+1200/2/9/2400
+150/1/10/127,5
+580/3/1/1740
